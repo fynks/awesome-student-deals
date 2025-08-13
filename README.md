@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Student Deals
+# 🎓 Awesome Student Deals
 
 </div>
 
