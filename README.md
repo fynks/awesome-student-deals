@@ -165,7 +165,7 @@ Most services require verification through:
 - **Plan your projects**: Take advantage of learning credits and resources
 - **Build your portfolio**: Use these tools to create impressive projects
 
-**Last Updated:** January 2025  
+
 **Maintained by:** [@Fynks](https://github.com/fynks)
 
 ---
